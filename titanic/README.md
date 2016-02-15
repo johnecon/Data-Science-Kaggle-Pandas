@@ -1,1 +1,0 @@
-Notebook available at [Anaconda](https://anaconda.org/johnecon/titanic/notebook)
